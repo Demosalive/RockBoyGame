@@ -1,0 +1,10 @@
+C:\Users\Curtis\source\repos\LearningGameCode\bin\Debug\LearningGameCode.exe.config
+C:\Users\Curtis\source\repos\LearningGameCode\bin\Debug\LearningGameCode.exe
+C:\Users\Curtis\source\repos\LearningGameCode\bin\Debug\LearningGameCode.pdb
+C:\Users\Curtis\source\repos\LearningGameCode\obj\Debug\LearningGameCode.csprojAssemblyReference.cache
+C:\Users\Curtis\source\repos\LearningGameCode\obj\Debug\LearningGameCode.Properties.Resources.resources
+C:\Users\Curtis\source\repos\LearningGameCode\obj\Debug\LearningGameCode.csproj.GenerateResource.cache
+C:\Users\Curtis\source\repos\LearningGameCode\obj\Debug\LearningGameCode.csproj.CoreCompileInputs.cache
+C:\Users\Curtis\source\repos\LearningGameCode\obj\Debug\LearningGameCode.exe
+C:\Users\Curtis\source\repos\LearningGameCode\obj\Debug\LearningGameCode.pdb
+C:\Users\Curtis\source\repos\LearningGameCode\obj\Debug\LearningGameCode.SquareBoy.resources
